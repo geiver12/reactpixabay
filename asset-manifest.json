@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactpixabay/static/css/main.d1b05096.chunk.css",
+    "main.js": "/reactpixabay/static/js/main.9f53dd6d.chunk.js",
+    "main.js.map": "/reactpixabay/static/js/main.9f53dd6d.chunk.js.map",
+    "runtime-main.js": "/reactpixabay/static/js/runtime-main.4525803c.js",
+    "runtime-main.js.map": "/reactpixabay/static/js/runtime-main.4525803c.js.map",
+    "static/js/2.8275c2c6.chunk.js": "/reactpixabay/static/js/2.8275c2c6.chunk.js",
+    "static/js/2.8275c2c6.chunk.js.map": "/reactpixabay/static/js/2.8275c2c6.chunk.js.map",
+    "index.html": "/reactpixabay/index.html",
+    "precache-manifest.90429065e8f01b35b2c654eae88dd679.js": "/reactpixabay/precache-manifest.90429065e8f01b35b2c654eae88dd679.js",
+    "service-worker.js": "/reactpixabay/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/reactpixabay/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8275c2c6.chunk.js.LICENSE": "/reactpixabay/static/js/2.8275c2c6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4525803c.js",
+    "static/js/2.8275c2c6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9f53dd6d.chunk.js"
+  ]
+}
